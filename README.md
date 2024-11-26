@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
