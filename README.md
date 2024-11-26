@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
