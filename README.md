@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
