@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
