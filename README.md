@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Greedy
