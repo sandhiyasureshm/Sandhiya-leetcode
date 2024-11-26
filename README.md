@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
+| [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
