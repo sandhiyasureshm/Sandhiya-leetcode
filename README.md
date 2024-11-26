@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0647-palindromic-substrings) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
