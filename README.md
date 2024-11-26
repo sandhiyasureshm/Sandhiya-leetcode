@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
