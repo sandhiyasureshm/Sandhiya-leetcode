@@ -77,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0338-counting-bits) |
 ## Binary Search
