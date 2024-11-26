@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sandhiyasureshm/Sandhiya-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
